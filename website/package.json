@@ -90,7 +90,7 @@
     "@types/accept-language-parser": "^1.5.3",
     "@types/node": "^18.11.17",
     "@types/react": "18.0.26",
-    "@typescript-eslint/eslint-plugin": "^5.47.1",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
     "babel-loader": "^8.3.0",
     "cross-env": "^7.0.3",
     "cypress": "^12.2.0",
