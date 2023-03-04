@@ -54,7 +54,7 @@
     "friendly-username-generator": "^2.0.4",
     "lande": "^1.0.10",
     "lucide-react": "^0.105.0",
-    "next": "13.0.6",
+    "next": "13.1.6",
     "next-auth": "^4.18.6",
     "next-i18next": "^13.0.3",
     "nodemailer": "^6.8.0",
